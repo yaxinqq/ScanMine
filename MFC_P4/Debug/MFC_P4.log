@@ -1,0 +1,32 @@
+﻿生成启动时间为 2019/11/19 13:30:29。
+     1>项目“D:\ZYX\VS2010_Project\MFC_P4\MFC_P4\MFC_P4.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\MFC_P4.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\MFC_P4.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MFC_P4Dlg.cpp
+         MFC_P4Dlg.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ZYX\VS2010_Project\MFC_P4\Debug\MFC_P4.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\MFC_P4.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\ZYX\VS2010_Project\MFC_P4\Debug\MFC_P4.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ZYX\VS2010_Project\MFC_P4\Debug\MFC_P4.lib" /MACHINE:X86 Debug\MFC_P4.res
+         Debug\MFC_P4.exe.embed.manifest.res
+         Debug\MFC_P4.obj
+         Debug\MFC_P4Dlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MFC_P4.exe.embed.manifest" /manifest Debug\MFC_P4.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         MFC_P4.vcxproj -> D:\ZYX\VS2010_Project\MFC_P4\Debug\MFC_P4.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\MFC_P4.unsuccessfulbuild”。
+         正在对“Debug\MFC_P4.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\ZYX\VS2010_Project\MFC_P4\MFC_P4\MFC_P4.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.10
