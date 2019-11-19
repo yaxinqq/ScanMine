@@ -1195,5 +1195,9 @@ BOOL CMFC_P4Dlg::PreTranslateMessage(MSG* pMsg)
 			}
 		}
 	}
+	else if(pMsg->message==WM_LBUTTONDOWN)       //可以改为任何消息
+	{
+		;
+	}
 	return CDialogEx::PreTranslateMessage(pMsg);
 }
